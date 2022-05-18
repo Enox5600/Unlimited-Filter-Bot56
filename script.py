@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : Movies Filter Bot</b>
 
-⭕️<b>Creater :</b> @https://t.me/Oxyver_Owner    
+⭕️<b>Creater :</b> @Oxyver_Owner    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
